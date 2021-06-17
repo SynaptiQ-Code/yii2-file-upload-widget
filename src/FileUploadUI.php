@@ -24,7 +24,7 @@ class FileUploadUI extends BaseUpload
     /**
      * @var bool whether to use the Bootstrap Gallery on the images or not
      */
-    public $gallery = true;
+    public $gallery = false;
     /**
      * @var bool load previously uploaded images or not
      */
